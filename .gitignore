@@ -1,0 +1,14 @@
+# Environment
+.env
+myenv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated files
+*.json
+
+# PDFs
+*.pdf
